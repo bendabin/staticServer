@@ -1,0 +1,4 @@
+#ignore login keys 
+secrets.txt
+
+#        *.txt  (To ignore all files with a txt extention
