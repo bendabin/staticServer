@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+
+/*Containers*/
+
+.container-fluid{
+    padding: 5% 20%;    
+}
+
+.blued-section{
+    background-color: blue;
+}
+
+.yellowed-section{
+    background-color: yellow;
+}
